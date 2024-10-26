@@ -1,9 +1,9 @@
 # Expense Tracker
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Issues](https://img.shields.io/github/issues/Pizza4sale/TMCP)
-![Forks](https://img.shields.io/github/forks/Pizza4sale/TMCP)
-![Stars](https://img.shields.io/github/stars/Pizza4sale/TMCP)
+![Issues](https://img.shields.io/github/issues/Pizza4sale/ETS)
+![Forks](https://img.shields.io/github/forks/Pizza4sale/ETS)
+![Stars](https://img.shields.io/github/stars/Pizza4sale/ETS)
 
 ## Project Overview
 The Expense Tracker is a web application designed to help users manage and track their expenses efficiently. Users can add, view, edit, and delete expenses, categorize them, and generate reports to analyze their spending habits over time.
@@ -22,7 +22,7 @@ To set up the Expense Tracker on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Pizza4sale/TMCP.git
+   git clone https://github.com/Pizza4sale/ETS.git
    ```
 
 2. **Setup a Local Server**:
