@@ -15,7 +15,7 @@ The Expense Tracker is a web application designed to help users manage and track
 - [Code Structure](#code-structure)
 - [Database Structure](#database-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation Instructions
 To set up the Expense Tracker on your local machine, follow these steps:
