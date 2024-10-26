@@ -86,13 +86,3 @@ Contributions are welcome! If you'd like to contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Instructions
-1. Create a new file in your project directory named `README.md`.
-2. Copy and paste the above content into that file.
-3. Save the file.
-
-This README file will give potential users and contributors a clear understanding of your project and how to get started. If you need any more changes or additional sections, let me know!
