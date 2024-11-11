@@ -15,7 +15,7 @@ The Expense Tracker is a web application designed to help users manage and track
 - [Code Structure](#code-structure)
 - [Database Structure](#database-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation Instructions
 To set up the Expense Tracker on your local machine, follow these steps:
@@ -86,3 +86,4 @@ Contributions are welcome! If you'd like to contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
+Contact: https://www.facebook.com/Pizza4sale/ on FB or call 09195431910
